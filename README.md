@@ -10,7 +10,7 @@ Before you begin, ensure you have met the following requirements:
 
 - You have installed the latest version of [Node.js and npm](https://nodejs.org/en/download/)
 
-## Installing Samespace Frontend Task
+## Installing Samespace Frontend Assignment
 
 To install Samespace Frontend, follow these steps:
 
@@ -49,7 +49,7 @@ Replace `API` with your actual Backend Endpoint, respectively.
 
 3. Save the `.env` file.
 
-## Running Samespace Frontend Task
+## Running Samespace Frontend Assignment
 
 To run Samespace Frontend Task, follow these steps:
 
