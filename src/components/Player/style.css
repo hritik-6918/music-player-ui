@@ -1,0 +1,87 @@
+.rhap_container {
+    background-color: transparent;
+    color: #fff;
+    border: none;
+    box-shadow: none;
+    padding: 0px;
+    margin-top: 20px;
+}
+
+.rhap_container .rhap_progress-bar-show-download {
+    background-color: transparent;
+}
+
+.rhap_container .rhap_progress-bar {
+    background-color: #ffffff30;
+}
+
+.rhap_container .rhap_progress-filled {
+    background-color: #fff;
+}
+
+.rhap_container .rhap_progress-indicator {
+    display: none;
+}
+
+.rhap_container .rhap_time {
+    display: none;
+}
+
+.rhap_container .rhap_main-controls-button {
+    color: #fff;
+}
+
+.rhap_container .rhap_volume-button,
+.rhap_container .rhap_repeat-button,
+.rhap_container .rhap_additional-controls-button {
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+.rhap_container .rhap_controls-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.rhap_container .rhap_progress-container {
+    margin: 0px;
+    flex-grow: 1;
+}
+
+
+.rhap_main-controls {
+    width: 150px !important;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.rhap_main-controls-button {
+    width: fit-content;
+    height: fit-content;
+    margin: 0px;
+}
+
+.rhap_volume-container {
+    width: fit-content !important;
+    min-width: fit-content;
+    max-width: fit-content;
+    height: fit-content;
+}
+
+.rhap_volume-button {
+    width: fit-content;
+    height: fit-content;
+    margin: 0px;
+}
+
+.rhap_button-clear {
+    overflow: visible;
+}
+
+.rhap_container .rhap_volume-bar-area {
+    display: none;
+    width: 0px;
+}
