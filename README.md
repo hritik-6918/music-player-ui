@@ -2,7 +2,7 @@
 
 This is a Samespace Frontend Music Player UI built with React.js and Tailwind CSS.
 
-Deployed App Link: [](/)
+Deployed App Link: [https://music-player-ui-hritik.vercel.app/](https://music-player-ui-hritik.vercel.app/)
 
 ## Prerequisites
 
